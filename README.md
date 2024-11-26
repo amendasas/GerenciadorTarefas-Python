@@ -28,7 +28,7 @@ Este projeto é um sistema de gerenciamento de tarefas desenvolvido em Python, q
    ```  
 3. Execute o programa:  
    ```bash
-   python3 gerenciador_tarefas.py
+   python3 gerenciadorTarefas.py
    ```  
 
 4. Siga as instruções no menu interativo para usar o sistema.  
